@@ -23,5 +23,6 @@
   </classloader>
   <civix>
     <namespace>CRM/Vivamailings</namespace>
+    <format>25.01.1</format>
   </civix>
 </extension>
